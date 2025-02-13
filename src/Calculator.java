@@ -17,12 +17,10 @@ public class Calculator {
 
     static int divide(int num1, int num2) {
         return (num1 / num2);
-
     }
 
     static int remider(int num1, int num2) {
         return (num1 % num2);
-
     }
 
     public static void main(String[] args) {
