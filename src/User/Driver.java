@@ -5,7 +5,7 @@ import Ride.Ride;
 public class Driver extends User {
     private int earnedAmmount;
     Ride ride;
-
+    
     public Driver(String name, String location, String contact, String bankDetails) {
         super(name, location, contact, bankDetails);
     }
